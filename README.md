@@ -1,0 +1,1 @@
+# senai-atividades-portugol-Exerc-cios-com-se-escolha-caso
